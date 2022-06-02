@@ -7,6 +7,7 @@
 - 🏢 I'm currently working as a Post-Doc **EPFL (École Polytechnique Fédérale de Lausanne)**
 - 🔭 I'm working at the intersection of Deep Learning, Remote Sensing and Ecology
 - ⚙️ Daily drivers:  Python, PyTorch, C, AWS, Google Earth Engine, QGIS
+- ⌨️ Previous experience: C++, Ruby, Redis, Java, Assembler X86, Pascal
 - 🌱 Learning about: Harmful algal blooms, self-supervised learning, TinyML
 - ✨ Strength Finder: Command, Achiever, Ideation, Deliberative, Relator
 - 💬 Ask me about **deep learning**, **software engineering**, **remote sensing**, **embedded systems**, **consulting**, **system design**
