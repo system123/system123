@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Lloyd 👋
 
-<!--
-**system123/system123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Data Scientist and Engineer from Cape Town, South Africa - currently working in Sion, Switzerland.
 
-Here are some ideas to get you started:
+##### BIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working as a Post-Doc **EPFL (École Polytechnique Fédérale de Lausanne)**
+- 🔭 I'm working at the intersection of Deep Learning, Remote Sensing and Ecology
+- ⚙️ Daily drivers:  Python, PyTorch, C, AWS, Google Earth Engine, QGIS
+- 🌱 Learning about: Harmful algal blooms, self-supervised learning, TinyML
+- ✨ Strength Finder: Command, Achiever, Ideation, Deliberative, Relator
+- 💬 Ask me about **deep learning**, **software engineering**, **remote sensing**, **embedded systems**, **consulting**, **system design**
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/lloydhughesza)[Website](https://www.lloydhughes.co.za)
+- ⚡️ Fun fact: I love hiking, scuba diving, fly fishing and make mead commercially as a passion project [Mellivora Meadery](https://instagram.com/mellivora.za)
+
