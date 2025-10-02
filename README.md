@@ -12,4 +12,4 @@
 - ✨ Strength Finder: Command, Achiever, Ideation, Deliberative, Relator  
 - 💬 Ask me about **geospatial AI**, **natural catastrophe modeling**, **remote sensing**, **embedded systems**, **system design**, **consulting**  
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/lloydhughesza) · [Website](https://www.lloydhughes.co.za)  
-- ⚡️ Fun fact: When I’m not working with satellites, you’ll find me sailing, scuba diving, fishing, or hiking — and I also make mead commercially with [Mellivora Meadery](https://instagram.com/mellivora.za)  
+- ⚡️ Fun fact: When I’m not working with satellites, you’ll find me sailing, scuba diving, fishing, or hiking — and I also make mead commercially with [Mellivora Meadery](https://instagram.com/mellivora.za), where I won **gold and silver at the African Beer Cup** 🥇🥈  
